@@ -1,7 +1,7 @@
 ### Olá, sou o Eduardo 👋
 
 - 📚 Estudo desenvolvimento de sistemas na Etec de Guaianazes
-- 🤖 Certificação em Inteligencia artificial ("Azuere AI-900")
+- 🤖 Certificação em Inteligencia artificial ("Azure AI-900")
 - ✉️ Email: eeduardosilva010506@gmail.com
 
 <div align="center">
