@@ -2,6 +2,7 @@
 
 - 📚 Estudo desenvolvimento de sistemas na Etec de Guaianazes
 - 🤖 Certificação em Inteligencia artificial ("Azure AI-900")
+- 🎮 Certificado em desenvolvimento de jogos ("Ofina Saga")
 - ✉️ Email: eeduardosilva010506@gmail.com
 - 📱 Telefone: 1195178-8048
 
