@@ -4,7 +4,7 @@
 - 🤖 Certificação em Inteligencia artificial ("Azure AI-900")
 - 🎮 Certificado em desenvolvimento de jogos ("Oficina Saga")
 - ✉️ Email: eeduardosilva010506@gmail.com
-- 📱 Telefone: 1195178-8048
+- 📱 Telefone: (11) 95178-8048
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
