@@ -6,10 +6,8 @@
 - ✉️ Email: eeduardosilva010506@gmail.com
 - 📱 Telefone: (11) 95178-8048
 
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo7070&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
+
 <h1>CONHECIMENTOS</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,7 +17,13 @@
       <img align="center" alt="Edu-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
    <img align="center" alt="Edu-bts" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
      <img align="center" alt="Edu-ps" height="30" width="40 "<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /> 
-
+        <img align="center" alt="Edu-ps" height="30" width="40 " "img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+                <img align="center" alt="Edu-ps" height="30" width="40 " "img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />                                                                                                                            
+         
+          
+                                                                                                                                             
+          
+          
   
           
 </div>
