@@ -18,7 +18,9 @@
    <img align="center" alt="Edu-bts" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
      <img align="center" alt="Edu-ps" height="30" width="40 "<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /> 
         <img align="center" alt="Edu-ps" height="30" width="40 " "img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-                <img align="center" alt="Edu-ps" height="30" width="40 " "img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />                                                                                                                            
+                <img align="center" alt="Edu-ps" height="30" width="40 " "img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />   
+   <img align="center" alt="Edu-ps" height="30" width="40 " "img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+          
          
           
                                                                                                                                              
