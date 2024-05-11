@@ -1,7 +1,6 @@
 ### Olá, sou o Eduardo 👋
 
 - 📚 Estudo desenvolvimento de sistemas na Etec de Guaianazes
-- 📚 Estudo administração na agência de treinamentos SIDE COMPANY
 - 🚀 Certificação em Inteligencia artificial ("Azure AI-900")
 - 🎮 Certificado em desenvolvimento de jogos ("Oficina Saga")
 - ✉️ Email: eeduardosilva010506@gmail.com
