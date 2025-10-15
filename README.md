@@ -1,8 +1,7 @@
 ### Olá, sou o Eduardo 👋
 
-- 📚 Estudo desenvolvimento de sistemas na Etec de Guaianazes
-- 🚀 Certificação em Inteligencia artificial ("Azure AI-900")
-- 🎮 Certificado em desenvolvimento de jogos ("Oficina Saga")
+- 📚 Tecninco em desenvolvimento de Sistemas
+- 📚 Estudando analise e desenvolvimento de sistemas
 - ✉️ Email: eeduardosilva010506@gmail.com
 - 📱 Telefone: (11) 95178-8048
 
@@ -24,22 +23,4 @@
          
           
                                                                                                                                              
-          
-          
   
-          
-</div>
-  
-  ##
-  
-<h1>MEIOS DE COMUNICAÇÃO</h1>
-  <a href="https://instagram.com/eduardosn7070" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-  <a href="https://wa.me/5511951788048" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%23E4405F?style=for-the-badge&logo=whatsapp&logoColor=green" target="_blank"></a>
-
-  
-
- 
-
- 
-</div>
