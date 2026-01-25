@@ -2,6 +2,7 @@
 
 - 📚 Tecninco em desenvolvimento de Sistemas
 - 📚 Estudando analise e desenvolvimento de sistemas
+- 💼 Desenvolvedor na KPMG
 - ✉️ Email: eeduardosilva010506@gmail.com
 - 📱 Telefone: (11) 95178-8048
 
