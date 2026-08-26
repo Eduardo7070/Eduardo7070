@@ -11,7 +11,7 @@
 
 <hr>
 
-<h2>🚀 Tecnologias e Ferramentas</h2>
+<h2>Tecnologias e Ferramentas</h2>
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="42" height="42" alt="Vue.js">&nbsp;
