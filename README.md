@@ -4,10 +4,27 @@
 
 <h2>Sobre mim</h2>
 
-<p>Técnico em Desenvolvimento de Sistemas</p>
-<p>Cursando Análise e Desenvolvimento de Sistemas</p>
-<p>Desenvolvedor na KPMG</p>
-<p>Interessado em Desenvolvimento de Software, Cloud Computing e Inteligência Artificial</p>
+<h2>Sobre mim</h2>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="20" height="20" alt="Formação" align="center">&nbsp; 
+  Técnico em Desenvolvimento de Sistemas
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graduation/graduation-original.svg" width="20" height="20" alt="Faculdade" align="center">&nbsp; 
+  Cursando Análise e Desenvolvimento de Sistemas
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20" height="20" alt="Trabalho" align="center">&nbsp; 
+  Desenvolvedor na KPMG
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="20" height="20" alt="Interesses" align="center">&nbsp; 
+  Interessado em Desenvolvimento de Software, Cloud Computing e Inteligência Artificial
+</p>
 
 <hr>
 
