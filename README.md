@@ -1,13 +1,13 @@
-<h1>Olá, sou o Eduardo 👋</h1>
+<h1>Olá, sou o Eduardo </h1>
 
 <h3>Desenvolvedor de Software</h3>
 
-<h2>👨‍💻 Sobre mim</h2>
+<h2>Sobre mim</h2>
 
-<p>🎓 Técnico em Desenvolvimento de Sistemas</p>
-<p>📚 Cursando Análise e Desenvolvimento de Sistemas</p>
-<p>💼 Desenvolvedor na KPMG</p>
-<p>☁️ Interessado em Desenvolvimento de Software, Cloud Computing e Inteligência Artificial</p>
+<p>Técnico em Desenvolvimento de Sistemas</p>
+<p>Cursando Análise e Desenvolvimento de Sistemas</p>
+<p>Desenvolvedor na KPMG</p>
+<p>Interessado em Desenvolvimento de Software, Cloud Computing e Inteligência Artificial</p>
 
 <hr>
 
