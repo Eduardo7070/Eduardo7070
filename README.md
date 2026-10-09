@@ -69,7 +69,7 @@
 
 <p>
 💼 <strong>LinkedIn:</strong>
-<a href="COLOQUE-SEU-LINK-DO-LINKEDIN-AQUI">Meu LinkedIn</a>
+<a href="linkedin.com/in/eduardo-nascimento-197386260">Meu LinkedIn</a>
 </p>
 
 <hr>
