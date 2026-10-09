@@ -17,11 +17,6 @@
 </p>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20" height="20" alt="Trabalho" align="middle">&nbsp; 
-  Desenvolvedor na KPMG
-</p>
-
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="20" height="20" alt="Azure" align="middle">&nbsp; 
   Interessado em Desenvolvimento de Software, Cloud Computing e Inteligência Artificial
 </p>
